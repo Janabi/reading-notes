@@ -1,6 +1,6 @@
 # reading-notes
 
-*** This website will include all of the reading assignments that are related to this program *** :+1:
+***This website will include all of the reading assignments that are related to this program*** :+1:
 
 ## Code 301 - Intermediate Software Development 
 
