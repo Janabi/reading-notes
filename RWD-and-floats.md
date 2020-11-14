@@ -39,11 +39,11 @@ The default of the media type is 'screen'.
 - assign an overflow property of the parent element into hidden.
 - using the significant easy clear method which is identified into the following blocks of codes:
 
-'''
+```
 .clearfix::after {
     content: "";
     clear: both;
     display: table;
 }
-'''
+```
 
