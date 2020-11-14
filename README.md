@@ -6,7 +6,7 @@
 
 Read# | links
 ----------|------------
-Read1     |[Link1]()
+Read1     |[RWD and Floats](https://janabi.github.io/reading-notes/RWD-and-floats)
 Read2     |[Link2]()
 Read3     |[Link3]()
 Read4     |[Link4]()
