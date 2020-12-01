@@ -11,17 +11,20 @@ Lets take a look for this following table which includes a **salesperson informa
 
 As you can see the figures above, the table has three purposes where we can separate them into three tables as follows:
 1. Information of salesperson.
-EmployeeID | SalesPerson         |SalesOffice             |Customers
+
+EmployeeID#| SalesPerson         |SalesOffice             |Customers
 -----------|---------------------|------------------------|-------------
 1          |Abdulrahman          |Amman                   |Mersedes
 
 2. The offices location and contact info.
-ID         | Location            |ContactOffice             
+
+ID#        | Location            |ContactOffice             
 -----------|---------------------|------------------------
 1          |Amman                |065554444
 
-3. The customer and their contacts info.
-ID         | Customers           |ContactOffice             
+3. 3The customer and their contacts info.
+
+ID#        | Customers           |ContactOffice             
 -----------|---------------------|------------------------
 1          |Mersedes             |065554433
 
