@@ -25,8 +25,8 @@ Read13    |[Diversity & Inclusion](https://janabi.github.io/reading-notes/divers
 Read# | links
 ----------|------------
 Read1     |[Node Ecosystem](https://janabi.github.io/reading-notes/node-ecosystem.md)
-Read2     |[Link2]()
-Read3     |[Link3]()
+Read2     |[Classes, Inheritance and Functional Prog](https://janabi.github.io/reading-notes/classes-inheritance-functional-prog.md)
+Read3     |[Data Modeling & NoSQL Databases](https://janabi.github.io/reading-notes/data-modeling-nosql.md)
 Read4     |[Link4]()
 Read5     |[Link5]()
 Read6     |[Link6]()
