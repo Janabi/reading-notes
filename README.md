@@ -28,7 +28,7 @@ Read1     |[Node Ecosystem](https://janabi.github.io/reading-notes/node-ecosyste
 Read2     |[Classes, Inheritance and Functional Prog](https://janabi.github.io/reading-notes/classes-inheritance-functional-prog.md)
 Read3     |[Data Modeling & NoSQL Databases](https://janabi.github.io/reading-notes/data-modeling-nosql.md)
 Read4     |[Advanced Mongo/Mongoose](https://janabi.github.io/reading-notes/advanced-mongo.md)
-Read5     |[Link5]()
+Read5     |[Linked Lists](https://janabi.github.io/reading-notes/linked-lists.md)
 Read6     |[Link6]()
 Read7     |[Link7]()
 Read8     |[Link8]()
