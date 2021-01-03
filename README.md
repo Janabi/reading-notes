@@ -29,7 +29,7 @@ Read2     |[Classes, Inheritance and Functional Prog](https://janabi.github.io/r
 Read3     |[Data Modeling & NoSQL Databases](https://janabi.github.io/reading-notes/data-modeling-nosql.md)
 Read4     |[Advanced Mongo/Mongoose](https://janabi.github.io/reading-notes/advanced-mongo.md)
 Read5     |[Linked Lists](https://janabi.github.io/reading-notes/linked-lists.md)
-Read6     |[Link6]()
+Read6     |[Http and Rest](https://janabi.github.io/reading-notes/http-rest.md)
 Read7     |[Link7]()
 Read8     |[Link8]()
 Read9     |[Link9]()

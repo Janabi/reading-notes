@@ -12,7 +12,6 @@
 - Head - The first node inside the linked list.
 - Current - It is kind of a pointer that tells you where your are currently at which node in the linked list.
 
-
 ### How does the linked list looks like
 ![Example of linked list](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/images/LinkedList1.PNG)
 
