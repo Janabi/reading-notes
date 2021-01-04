@@ -31,5 +31,5 @@ Read4     |[Advanced Mongo/Mongoose](https://janabi.github.io/reading-notes/adva
 Read5     |[Linked Lists](https://janabi.github.io/reading-notes/linked-lists.md)
 Read6     |[Http and Rest](https://janabi.github.io/reading-notes/http-rest.md)
 Read7     |[Express](https://janabi.github.io/reading-notes/express.md)
-Read8     |[Link8]()
+Read8     |[Express Routing & Connected API](https://janabi.github.io/reading-notes/routing-connected-api.md)
 Read9     |[Link9]()
