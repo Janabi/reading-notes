@@ -35,3 +35,4 @@ Read8     |[Express Routing & Connected API](https://janabi.github.io/reading-no
 Read9     |[API Server](https://janabi.github.io/reading-notes/api-server.md)
 Read10    |[Stacks and Queues](https://janabi.github.io/reading-notes/stack-queue.md)
 Read11    |[Authentication](https://janabi.github.io/reading-notes/authentication.md)
+Read11    |[OAuth](https://janabi.github.io/reading-notes/oAuth.md)
