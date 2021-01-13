@@ -37,3 +37,5 @@ Read10    |[Stacks and Queues](https://janabi.github.io/reading-notes/stack-queu
 Read11    |[Authentication](https://janabi.github.io/reading-notes/authentication.md)
 Read11    |[OAuth](https://janabi.github.io/reading-notes/oAuth.md)
 Read11    |[Bearer Authorization](https://janabi.github.io/reading-notes/bearer-auth.md)
+Read11    |[Access Control (ACL)](https://janabi.github.io/reading-notes/access-control.md)
+Read11    |[Binary Tree](https://janabi.github.io/reading-notes/binary-tree.md)
