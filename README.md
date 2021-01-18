@@ -41,3 +41,4 @@ Read14    |[Access Control (ACL)](https://janabi.github.io/reading-notes/access-
 Read15    |[Binary Tree](https://janabi.github.io/reading-notes/binary-tree.md)
 Read16    |[Event Driven Applications](https://janabi.github.io/reading-notes/event-driven-app.md)
 Read17    |[TCP Servers](https://janabi.github.io/reading-notes/tcp-servers.md)
+Read18    |[Socket.io](https://janabi.github.io/reading-notes/socket-io.md)
