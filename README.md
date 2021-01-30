@@ -43,3 +43,4 @@ Read16    |[Event Driven Applications](https://janabi.github.io/reading-notes/ev
 Read17    |[TCP Servers](https://janabi.github.io/reading-notes/tcp-servers.md)
 Read18    |[Socket.io](https://janabi.github.io/reading-notes/socket-io.md)
 Read19    |[Message Queues](https://janabi.github.io/reading-notes/msg-queues.md)
+Read19    |[Component Based UI](https://janabi.github.io/reading-notes/component-based-ui.md)
