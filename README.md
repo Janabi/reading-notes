@@ -48,4 +48,5 @@ Read21    |[Props and State](https://janabi.github.io/reading-notes/props-state.
 Read22    |[Component Composition](https://janabi.github.io/reading-notes/component-composition.md)
 Read23    |[React Routing](https://janabi.github.io/reading-notes/routing.md)
 Read24    |[HashTable](https://janabi.github.io/reading-notes/hashtable.md)
-Read24    |[Hooks API](https://janabi.github.io/reading-notes/hooks-api.md)
+Read25    |[Hooks API](https://janabi.github.io/reading-notes/hooks-api.md)
+Read26    |[Custom Hooks](https://janabi.github.io/reading-notes/custom-hooks.md)
