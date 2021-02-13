@@ -53,3 +53,4 @@ Read26    |[Custom Hooks](https://janabi.github.io/reading-notes/custom-hooks.md
 Read27    |[Context API](https://janabi.github.io/reading-notes/context-api.md)
 Read28    |[<Login /> and <Auth />](https://janabi.github.io/reading-notes/auth-login-react.md)
 Read29    |[Graphs](https://janabi.github.io/reading-notes/graphs.md)
+Read30    |[Redux](https://janabi.github.io/reading-notes/redux.md)
