@@ -55,3 +55,4 @@ Read28    |[<Login /> and <Auth />](https://janabi.github.io/reading-notes/auth-
 Read29    |[Graphs](https://janabi.github.io/reading-notes/graphs.md)
 Read30    |[Redux](https://janabi.github.io/reading-notes/redux.md)
 Read31    |[Redux - Combined Reducers](https://janabi.github.io/reading-notes/combined-redux.md)
+Read32    |[Redux - Asynchronous Actions](https://janabi.github.io/reading-notes/asynchronous-redux.md)
